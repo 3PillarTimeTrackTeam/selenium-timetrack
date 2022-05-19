@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="tests.ProductsTest" skipped="0" tests="1" time="0.0" timestamp="2022-05-19T16:28:58.117-06:00[America/Costa_Rica]"><testcase classname="tests.ProductsTest" name="Initialisation"><error message="The following error occurred: session not created: This version of ChromeDriver only supports Chrome version 102&#10;Current browser version is 96.0.4664.110 with binary path /Applications/Google Chrome.app/Contents/MacOS/Google Chrome&#10;Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'&#10;System info: host: 'crh-mb-021', ip: 'fe80:0:0:0:10e6:588e:336d:57cf%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_121'&#10;Driver info: driver.version: ChromeDriver&#10;remote stacktrace: 0   chromedriverMac                     0x000000010721d439 chromedriverMac + 5198905&#10;1   chromedriverMac                     0x00000001071ab483 chromedriverMac + 4732035&#10;2   chromedriverMac                     0x0000000106d882a8 chromedriverMac + 393896&#10;3   chromedriverMac                     0x0000000106dae65e chromedriverMac + 550494&#10;4   chromedriverMac                     0x0000000106daa15a chromedriverMac + 532826&#10;5   chromedriverMac                     0x0000000106da67c6 chromedriverMac + 518086&#10;6   chromedriverMac                     0x0000000106de038a chromedriverMac + 754570&#10;7   chromedriverMac                     0x0000000106dda5c3 chromedriverMac + 730563&#10;8   chromedriverMac                     0x0000000106db0959 chromedriverMac + 559449&#10;9   chromedriverMac                     0x0000000106db1985 chromedriverMac + 563589&#10;10  chromedriverMac                     0x00000001071ef25d chromedriverMac + 5010013&#10;11  chromedriverMac                     0x00000001071f41bd chromedriverMac + 5030333&#10;12  chromedriverMac                     0x00000001071f90cf chromedriverMac + 5050575&#10;13  chromedriverMac                     0x00000001071f4e2a chromedriverMac + 5033514&#10;14  chromedriverMac                     0x00000001071cec23 chromedriverMac + 4877347&#10;15  chromedriverMac                     0x000000010720e808 chromedriverMac + 5138440&#10;16  chromedriverMac                     0x000000010720e98f chromedriverMac + 5138831&#10;17  chromedriverMac                     0x0000000107224665 chromedriverMac + 5228133&#10;18  libsystem_pthread.dylib             0x00007ff8091cd4f4 _pthread_start + 125&#10;19  libsystem_pthread.dylib             0x00007ff8091c900f thread_start + 15&#10;" type="org.openqa.selenium.SessionNotCreatedException">The following error occurred: session not created: This version of ChromeDriver only supports Chrome version 102
+Current browser version is 96.0.4664.110 with binary path /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'crh-mb-021', ip: 'fe80:0:0:0:10e6:588e:336d:57cf%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_121'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: 0   chromedriverMac                     0x000000010721d439 chromedriverMac + 5198905
+1   chromedriverMac                     0x00000001071ab483 chromedriverMac + 4732035
+2   chromedriverMac                     0x0000000106d882a8 chromedriverMac + 393896
+3   chromedriverMac                     0x0000000106dae65e chromedriverMac + 550494
+4   chromedriverMac                     0x0000000106daa15a chromedriverMac + 532826
+5   chromedriverMac                     0x0000000106da67c6 chromedriverMac + 518086
+6   chromedriverMac                     0x0000000106de038a chromedriverMac + 754570
+7   chromedriverMac                     0x0000000106dda5c3 chromedriverMac + 730563
+8   chromedriverMac                     0x0000000106db0959 chromedriverMac + 559449
+9   chromedriverMac                     0x0000000106db1985 chromedriverMac + 563589
+10  chromedriverMac                     0x00000001071ef25d chromedriverMac + 5010013
+11  chromedriverMac                     0x00000001071f41bd chromedriverMac + 5030333
+12  chromedriverMac                     0x00000001071f90cf chromedriverMac + 5050575
+13  chromedriverMac                     0x00000001071f4e2a chromedriverMac + 5033514
+14  chromedriverMac                     0x00000001071cec23 chromedriverMac + 4877347
+15  chromedriverMac                     0x000000010720e808 chromedriverMac + 5138440
+16  chromedriverMac                     0x000000010720e98f chromedriverMac + 5138831
+17  chromedriverMac                     0x0000000107224665 chromedriverMac + 5228133
+18  libsystem_pthread.dylib             0x00007ff8091cd4f4 _pthread_start + 125
+19  libsystem_pthread.dylib             0x00007ff8091c900f thread_start + 15
+</error><system-err>The following error occurred: session not created: This version of ChromeDriver only supports Chrome version 102
+Current browser version is 96.0.4664.110 with binary path /Applications/Google Chrome.app/Contents/MacOS/Google Chrome
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'crh-mb-021', ip: 'fe80:0:0:0:10e6:588e:336d:57cf%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_121'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: 0   chromedriverMac                     0x000000010721d439 chromedriverMac + 5198905
+1   chromedriverMac                     0x00000001071ab483 chromedriverMac + 4732035
+2   chromedriverMac                     0x0000000106d882a8 chromedriverMac + 393896
+3   chromedriverMac                     0x0000000106dae65e chromedriverMac + 550494
+4   chromedriverMac                     0x0000000106daa15a chromedriverMac + 532826
+5   chromedriverMac                     0x0000000106da67c6 chromedriverMac + 518086
+6   chromedriverMac                     0x0000000106de038a chromedriverMac + 754570
+7   chromedriverMac                     0x0000000106dda5c3 chromedriverMac + 730563
+8   chromedriverMac                     0x0000000106db0959 chromedriverMac + 559449
+9   chromedriverMac                     0x0000000106db1985 chromedriverMac + 563589
+10  chromedriverMac                     0x00000001071ef25d chromedriverMac + 5010013
+11  chromedriverMac                     0x00000001071f41bd chromedriverMac + 5030333
+12  chromedriverMac                     0x00000001071f90cf chromedriverMac + 5050575
+13  chromedriverMac                     0x00000001071f4e2a chromedriverMac + 5033514
+14  chromedriverMac                     0x00000001071cec23 chromedriverMac + 4877347
+15  chromedriverMac                     0x000000010720e808 chromedriverMac + 5138440
+16  chromedriverMac                     0x000000010720e98f chromedriverMac + 5138831
+17  chromedriverMac                     0x0000000107224665 chromedriverMac + 5228133
+18  libsystem_pthread.dylib             0x00007ff8091cd4f4 _pthread_start + 125
+19  libsystem_pthread.dylib             0x00007ff8091c900f thread_start + 15
+
+baseClass.Base.chromeDriverConnection(Base.java:27)
+tests.ProductsTest.setUp(ProductsTest.java:24)
+</system-err></testcase></testsuite>
